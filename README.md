@@ -36,8 +36,8 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**, **Mobile and We
 ---
 
 ## 📫 **How to Reach Me**
-- 📧 Email: [wimukthi.dilshan@example.com](mailto:wimukthi.dilshan@example.com)
-- 💼 LinkedIn: [Wimukthi Dilshan](https://linkedin.com/in/wimukthi-dilshan)
+- 📧 Email: [wimukthi2010@gmail.com](mailto:wimukthi2010@gmail.com)
+- 💼 LinkedIn: [Wimukthi Dilshan](https://www.linkedin.com/in/wimukthi-dilshan-4ab4ab314?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrsyiTawHSPapD%2BuQw1egtQ%3D%3D)
 - 🖥️ GitHub: [WimukthiDilshan](https://github.com/WimukthiDilshan)
 
 ---
